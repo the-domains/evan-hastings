@@ -1,7 +1,7 @@
 name: Evan Hastings
 favicon: null
-layout_spectrum: 0.6260480540804565
-typography_spectrum: 0.6595327230170369
+layout_spectrum: 0
+typography_spectrum: 0.74831
 title: Evan Hastings
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.509673657361418
-  lightness: 0.3298621664289385
-  saturation: 0.3220678688958287
-  rhythmicContrast: 0.9634691260289401
+    - '#090708'
+    - '#565193'
+    - '#ffffff'
+    - '#fe9d23'
+    - '#ebc995'
+  brandStrength: 0.1875
+  lightness: 0.5
+  saturation: 0.375
+  rhythmicContrast: 0.75
 purpose: []
